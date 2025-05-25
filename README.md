@@ -76,9 +76,7 @@ Bot akan secara otomatis mengirimkan pesan berisi chat ID kamu.
 ### mendapatkan akses root ke vps mu
 
 ``````
-
   wget -qO- -O aksesroot.sh https://raw.githubusercontent.com/frosi4524/alpha/refs/heads/main/aksesroot.sh && bash aksesroot.sh
-
 ```````
 
 
@@ -86,9 +84,7 @@ Bot akan secara otomatis mengirimkan pesan berisi chat ID kamu.
 
 
 `````
-
  wget https://github.com/frosi4524/coklat/raw/refs/heads/main/update.sh && chmod +x update.sh && ./update.sh
-
 ``````
 
 
