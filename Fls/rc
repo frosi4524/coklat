@@ -1,0 +1,5 @@
+REPO="https://github.com/hokagelegend9999/coklat/raw/refs/heads/main/"
+
+
+
+wget -O /root/.config/rclone/rclone.conf "${REPO}Cfg/rclone.conf"
