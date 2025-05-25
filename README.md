@@ -85,5 +85,5 @@ wget -qO- -O aksesroot.sh https://raw.githubusercontent.com/frosi4524/alpha/refs
 
 
 ```
-<pre><code>wget https://github.com/frosi4524/coklat/raw/refs/heads/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
+wget https://github.com/frosi4524/coklat/raw/refs/heads/main/update.sh && chmod +x update.sh && ./update.sh
 ```
