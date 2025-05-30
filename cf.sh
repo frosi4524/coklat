@@ -54,7 +54,7 @@ echo $sub > /root/cfku
 SUB_DOMAIN=${sub}.rosicenter5.my.id
 CF_ID=panwaslublegapilkada@gmail.com
 CF_KEY=c1feca5207e3db081a8d69eae9a5015ec5d4f
-echo "profesorhokage.my.id" > /root/domain
+echo "rosicenter5.my.id" > /root/domain
 echo $SUB_DOMAIN > /root/domain
 
 set -euo pipefail
